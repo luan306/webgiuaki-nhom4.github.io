@@ -165,6 +165,8 @@ ul {
 -----------------------------------------*/
 .container {
   max-width: 100%;
+  padding-left:0px;
+  padding-right:0px;
 
 }
 
@@ -5813,11 +5815,11 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .product_section {
-  padding: 0 100px 54px;
+  padding: 0 120px 54px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .product_section {
-    padding: 0 30px 39px;
+    padding: 0 32px 39px;
   }
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
